@@ -1,4 +1,4 @@
-var currentTime = new Date();
+/*var currentTime = new Date();
 var hours = currentTime.getHours();
 var minutes = currentTime.getMinutes();
 var seconds = currentTime.getSeconds();
@@ -14,11 +14,10 @@ if (hours < 12) {
     greeting = "Salut, Bon après-midi! Good Afternoon!";
 } else {
     greeting = "Salut, Bonne soirée! Good Evening!";
-}
+}*/
 
 
-
-Swal.fire(greeting);
+// Swal.fire(greeting);
 
 
 
